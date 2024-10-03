@@ -1,0 +1,1 @@
+{"name":"Local: A_数塔","url":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\2\\A_数塔.cpp","tests":[{"id":1727787644017,"input":"1\n5\n7\n3 8\n8 1 0 \n2 7 4 4\n4 5 2 6 5","output":"30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\2\\A_数塔.cpp","group":"local","local":true}

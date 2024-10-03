@@ -1,0 +1,1 @@
+{"name":"Local: 还是畅通工程","url":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\1\\还是畅通工程.cpp","tests":[{"id":1727685800638,"input":"3\n1 2 1\n1 3 2\n2 3 4\n4\n1 2 1\n1 3 4\n1 4 1\n2 3 3\n2 4 2\n3 4 5\n0","output":"3\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\1\\还是畅通工程.cpp","group":"local","local":true}

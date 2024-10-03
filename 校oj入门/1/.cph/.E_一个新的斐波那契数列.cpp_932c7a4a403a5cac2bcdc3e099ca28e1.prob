@@ -1,0 +1,1 @@
+{"name":"Local: E_一个新的斐波那契数列","url":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\1\\E_一个新的斐波那契数列.cpp","tests":[{"id":1727746977859,"input":"0\n1\n2\n3\n4\n5","output":"no\nno\nyes\nno\nno\nno"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\1\\E_一个新的斐波那契数列.cpp","group":"local","local":true}
