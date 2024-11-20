@@ -1,0 +1,1 @@
+{"name":"Local: K_奋勇争先续","url":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\1\\K_奋勇争先续.cpp","tests":[{"id":1728543624725,"input":"1\n3 3\nBob 5 50\nAlice 4 46\nJohn 5 48","output":"John 5 48\nBob 5 50\nAlice 4 46"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\1\\K_奋勇争先续.cpp","group":"local","local":true}

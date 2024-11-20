@@ -1,0 +1,1 @@
+{"name":"Local: S_拯救丁爸","url":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\3\\S_拯救丁爸.cpp","tests":[{"id":1730281007092,"input":"7 8\n#.#####.\n#.a#..r.\n#..#x...\n..#..#.#\n#...##..\n.#......\n........","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\3\\S_拯救丁爸.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: G_老鼠和猫的交易","url":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\1\\G_老鼠和猫的交易.cpp","tests":[{"id":1728482901056,"input":"5 3\n7 2\n4 3\n5 2\n20 3\n25 18\n24 15\n15 10\n-1 -1","output":"13.333\n31.500"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\1\\G_老鼠和猫的交易.cpp","group":"local","local":true}

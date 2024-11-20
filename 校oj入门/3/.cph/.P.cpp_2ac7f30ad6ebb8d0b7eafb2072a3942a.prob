@@ -1,0 +1,1 @@
+{"name":"Local: P","url":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\3\\P.cpp","tests":[{"id":1732014916105,"input":"2 2 5\n3\n2 5 12\n3 2 4 7\n4 2 3 7 12\n5 1 2 3 4 5\n3\n2 5 12\n3 2 4 7\n4 2 3 7 12\n0","output":"LWW\nWWL"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\3\\P.cpp","group":"local","local":true}

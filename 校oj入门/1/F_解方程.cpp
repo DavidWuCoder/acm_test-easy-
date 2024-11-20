@@ -12,15 +12,15 @@ void solve(int& T)
     double a = 0, b = 100;
     double t;
     std::cin >> t;
-    int l = func(a) - t;
+    double l = func(a) - t;
     double r = func(b) - t;
-    if ( t >= l && t <= r )
+    if ( l * r > 0)
     {
         std::cout << "No solution!" << '\n';
         return;
     }
     double ans;
-    while ((b - a) > 1e-5)
+    while ((b - a) > 1e-6)
     {
         double mid = (a + b) / 2;
         double m = func(mid) - t;

@@ -1,0 +1,1 @@
+{"name":"Local: T_最佳编码","url":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\3\\T_最佳编码.cpp","tests":[{"id":1728698849656,"input":"AAAAABCD\nTHE_CAT_IN_THE_HAT\nEND","output":"64 13 4.9\n144 51 2.8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\46858\\Desktop\\acm\\校oj入门\\3\\T_最佳编码.cpp","group":"local","local":true}
